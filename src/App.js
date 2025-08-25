@@ -3,17 +3,17 @@ import React from "react";
 const cards = [
   {
     title: "A",
-    desc: "project coba coba sajaaaaa.",
+    desc: "contoh produk.",
     img: "https://images.unsplash.com/photo-1508830524289-0adcbe822b40?w=800",
   },
   {
     title: "B",
-    desc: "ini om dav gantengg projectnya.",
+    desc: "contoh produk.",
     img: "https://images.unsplash.com/photo-1508830524289-0adcbe822b40?w=800",
   },
   {
     title: "C",
-    desc: "project coba coba sajaaaaa.",
+    desc: "contoh produk.",
     img: "https://images.unsplash.com/photo-1508830524289-0adcbe822b40?w=800",
   },
 ];
